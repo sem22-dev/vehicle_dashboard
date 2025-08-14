@@ -1,4 +1,3 @@
-I'll provide the README in a clean markdown format that you can copy and paste directly:
 
 ```markdown
 # Vehicle Registration Analytics Platform
