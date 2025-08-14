@@ -1,5 +1,3 @@
-
-```markdown
 # Vehicle Registration Analytics Platform
 
 A comprehensive data analytics dashboard built for investor insights into India's vehicle registration market. This platform processes Vahan Dashboard data to provide year-over-year (YoY) and quarter-over-quarter (QoQ) growth analysis across vehicle categories and manufacturers.
