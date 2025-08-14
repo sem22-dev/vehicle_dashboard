@@ -1,0 +1,244 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+.venv/
+vehicle_dashboard_env/
+
+# Environment variables and sensitive data
+.env
+.env.local
+.env.production
+.env.staging
+*.key
+*.pem
+secrets.json
+config.ini
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Excel and data files (optional - remove if you want to track sample data)
+data/raw/*.xlsx
+data/processed/*.csv
+*.xls
+*.xlsx
+
+# Logs
+*.log
+logs/
+log/
+
+# IDE specific files
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Node.js (if you add any frontend components)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.Python
+
+# Flask (if used for API)
+instance/
+.webassets-cache
+
+# Django (if used)
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# profiling data
+.prof
+
+# Backup files
+*.bak
+*.backup
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Documentation builds
+docs/_build/
+site/
+
+# pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff (if applicable):
+local_settings.py
+db.sqlite3
+media
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Kubernetes
+*.yaml.bak
+
+# Terraform (if using infrastructure as code)
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Local configuration overrides
+local_config.py
+config_local.py
+settings_local.py
+
+# OS generated files
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+# Project specific ignores
+# Uncomment these if you don't want to track certain files
+# screenshots/
+# demo_videos/
+# presentation/
+
+# Generated reports
+reports/
+exports/
