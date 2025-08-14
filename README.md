@@ -4,7 +4,7 @@ A comprehensive data analytics dashboard built for investor insights into India'
 
 ## Project Overview
 
-This project was developed as part of a Backend Developer Internship assignment, focusing on creating an investor-grade analytics platform for vehicle registration trends in India. The dashboard provides actionable insights for investment decision-making in the automotive sector.
+The dashboard provides actionable insights for investment decision-making in the automotive sector.
 
 ## Key Features
 
