@@ -25,12 +25,6 @@ The dashboard provides actionable insights for investment decision-making in the
 - **EV Adoption Tracking**: Electric vehicle market penetration analysis
 - **Market Concentration Metrics**: Risk assessment indicators
 
-### **Professional UI/UX**
-- **Custom Design**: Distinctive teal/navy color scheme
-- **Interactive Components**: Hover effects and responsive design
-- **Card-based Filters**: Modern, intuitive interface
-- **Mobile-responsive**: Optimized for all device sizes
-
 ## 🛠️ Technical Architecture
 
 ### **Technology Stack**
@@ -157,21 +151,3 @@ Access the dashboard at: `http://localhost:8501`
 - Vehicle types serve as manufacturer categories in the analysis
 - Missing data points are handled through interpolation
 - Growth calculations require minimum 2 years of data
-
-## 🎯 Key Investor Insights Discovered
-
-### **Market Leadership**
-- **Two-Wheeler Dominance**: 2W category commands 75%+ market share
-- **M-Cycle/Scooter Leadership**: Traditional motorcycles lead registration volumes
-- **Geographic Concentration**: Top 5 states account for 60% of registrations
-
-### **Growth Trends**
-- **EV Adoption Surge**: Electric vehicles show 25%+ YoY growth
-- **Post-COVID Recovery**: Strong bounce-back in 2024-2025 periods
-- **Quarterly Seasonality**: Q2 typically shows highest registration volumes
-
-### **Investment Opportunities**
-- **Electric Mobility**: E-Rickshaw segment showing consistent growth
-- **Two-Wheeler Market**: Stable investment with predictable returns
-- **Regional Expansion**: Tier-2 cities showing emerging growth potential
-
